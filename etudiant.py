@@ -31,6 +31,7 @@ class Etudiant:
         self.__num_etud = p_num
         self.__nom_etud = p_nom
         self.Programme = p_prog
+        self.Ls_cour = []
         self.__date_naiss = p_date_naiss
 
     ##################################################
